@@ -1,5 +1,4 @@
-# evesiteclone
-# 🕸️ Eve SiteClone
+# 🕸️ evesiteclone
 
 **Eve SiteClone** 是一个网页抓取与镜像工具，可以将指定网站完整抓取（包括 HTML 页面、CSS、JS、图片等静态资源），并保存为可离线访问的本地副本。同时支持 **增量更新** 和 **FTP 自动上传**，可用于：  
 
